@@ -1,5 +1,6 @@
 # React + TypeScript + Vite
 
+Deploy: https://dynmaic-card-content.vercel.app/
 React (SPA),firebase ve typescript kullanılarak firebase resim yükleme, başlık ve açıklama alanalarını kaydederek dinmaik kart içeriği oluşturan bir projedir
 
 Currently, two official plugins are available:
