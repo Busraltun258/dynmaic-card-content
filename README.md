@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React (SPA),firebase ve typescript kullanılarak firebase resim yükleme, başlık ve açıklama alanalarını kaydederek dinmaik kart içeriği oluşturan bir projedir
 
 Currently, two official plugins are available:
 
